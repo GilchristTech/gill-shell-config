@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-pushd installers
+pushd "$(dirname $0)/installers"
 ./home-directory.sh
 ./zsh.sh
 ./vim.sh
