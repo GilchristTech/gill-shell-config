@@ -1,0 +1,32 @@
+base-devel
+xsel
+tree
+vim
+tmux
+wget
+openssh
+zsh
+which
+arch-install-scripts
+tldr
+w3m
+
+git
+github-cli
+
+# Terminals
+alacritty
+terminator
+
+ipython
+python-pandas
+
+nodejs
+npm
+
+go
+
+feh
+nautilus   # file browser
+geeqie     # picture viewer
+ristretto  # picture viewer
