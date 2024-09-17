@@ -5,4 +5,5 @@ pushd "$(dirname $0)/installers"
 ./zsh.sh
 ./vim.sh
 ./w3m-settings.sh
+./alacritty.sh
 popd
