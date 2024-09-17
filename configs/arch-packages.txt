@@ -20,6 +20,12 @@ terminator
 
 ipython
 python-pandas
+python-psycopg2
+python-sqlalchemy
+python-matplotlib
+python-boto3
+
+aws-cli
 
 nodejs
 npm
