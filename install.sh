@@ -11,5 +11,6 @@ fi
 ./vim.sh
 ./w3m-settings.sh
 ./alacritty.sh
+./wezterm.sh
 
 popd

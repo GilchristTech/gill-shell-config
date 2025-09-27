@@ -17,6 +17,7 @@ github-cli
 # Terminals
 alacritty
 terminator
+wezterm
 
 ipython
 python-pandas
